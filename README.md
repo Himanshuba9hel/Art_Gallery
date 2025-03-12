@@ -1,3 +1,6 @@
+#Live Hosting link
+-[Link](https://art-gallery-cyan.vercel.app/)
+
 # Filterable Gallery with React.js, Vite, and Tailwind CSS
 
 This is a simple filterable gallery application built using React.js with TypeScript, Vite for development, and Tailwind CSS for styling. The application allows users to filter and view images based on predefined categories.
